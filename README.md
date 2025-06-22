@@ -53,9 +53,8 @@ nlp-to-sql/
 ├── templates/
 │   └── ui.html
 ├── requirements.txt
-├── .gitignore
 ├── README.md
-└── AdventureWorks2019.bak (optional, not pushed to GitHub)
+└── DB Link.txt (Link to access the Database)
 ```
 ---
 
