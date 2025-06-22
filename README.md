@@ -1,4 +1,4 @@
-# 🧠 NLP-to-SQL App with Flask & SQL Server
+# <a href="https://github.com/rsb01/NLP-to-SQL" target="_blank"> NLP-to-SQL App with Flask & SQL Server</a>
 
 This is a Flask-based web application that uses natural language processing to convert user questions into SQL queries. It connects to the **AdventureWorks2019** SQL Server database and displays both the generated SQL and query results.
 
