@@ -71,6 +71,6 @@ The app uses a stylish Bootstrap 5 dark theme and a background image from `/stat
 
 ---
 
-**Made with ❤️ by Raam Sai Bharadwaj**
+**Made by Raam Sai Bharadwaj & Aashish Siddhardh**
 
 
